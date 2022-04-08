@@ -9,7 +9,7 @@
 
 ---
 
-## Of Developement
+## Of Development
 ### views.py
 ```python
 def lotto(request):
